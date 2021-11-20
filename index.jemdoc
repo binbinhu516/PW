@@ -1,23 +1,26 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
-== Jin Shang
-
 ~~~
 {}{img_left}{photos/binbin.jpg}{alt text}{185px}{239px}
-[https://jshang2.github.io Jin Shang], Ph.D. \n 
-Senior Research Engineer at [https://www.us1.dgene.com/ DGene] \n
-Baton Rouge, Louisiana, United States \n
-\n
-Email: astrostell@gmail.com \n
-\[[https://scholar.google.com/citations?user=CIfBuzcAAAAJ&hl=en Google Scholar]\]\[[CV.pdf Curriculem Vitae]\] \n
+[https://binbinhu516.github.io/hbb.github.io/ Bin-Bin Hu] \n 
+\[[https://scholar.google.com/citations?user=DO76r9EAAAAJ&hl=zh-CN Scholar]\] \[[CV_hbb.pdf CV]\] \[[https://github.com/binbinhu516 Git]\] \n
+PhD Student, School of Artificial Intelligence and Automation, Huazhong Univeristy of Science and Technology \n
+Member of [http://imds.aia.hust.edu.cn/info/1082/1572.htm IMDS Lab] \n
+Email: [hbb@hust.edu.cn hbb@hust.edu.cn]\n
+
 ~~~
 
 
 
 
-at Baton Rouge, Louisiana, USA. (March 19, 2021)
+at Wuhan, P.R. China
 #at Grand Isle State Park, Louisiana, USA. (Oct 6, 2018)
 
-#== News
+== Research Interest
+- Networked control system, Control theory, Unmanned surface vessels 
+- Robotics, Motion plannning, SLAM
+
+
+== News
 #- \[05-15-2020\] "List-wise fairness criterion for point processes" is accepted by KDD'20!
 #- \[05-04-2020\] Defended my Ph.D. dissertation titled "Predictive modeling of asynchronous event sequence data"!
 #- \[05-25-2019\] An extention of our ICDM'18 work "Local low-rank Hawkes processes for modeling temporal user-item interactions" is accepted by Knowledge and Information Systems(KAIS)!
