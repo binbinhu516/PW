@@ -3,7 +3,7 @@
 {}{img_left}{photos/binbin.jpg}{alt text}{185px}{239px}
 [https://binbinhu516.github.io/hbb.github.io/ Bin-Bin Hu] \n 
 \[[https://scholar.google.com/citations?user=DO76r9EAAAAJ&hl=zh-CN Scholar]\] \[[CV_hbb.pdf CV]\] \[[https://github.com/binbinhu516 Git]\] \n
-PhD Student, School of Artificial Intelligence and Automation, Huazhong Univeristy of Science and Technology \n
+Ph.D. Student, School of Artificial Intelligence and Automation, Huazhong Univeristy of Science and Technology \n
 Member of [http://imds.aia.hust.edu.cn/info/1082/1572.htm IMDS Lab] \n
 Email: [hbb@hust.edu.cn hbb@hust.edu.cn]\n
 
@@ -17,7 +17,7 @@ at Wuhan, P.R. China
 
 == Research Interest
 - Networked control system, Control theory, Unmanned surface vessels 
-- Robotics, Motion plannning, SLAM
+- Robotics, Navigation, Motion plannning, SLAM
 
 
 == News
@@ -29,21 +29,23 @@ at Wuhan, P.R. China
 #- \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" is accepted by ICDM'18!
 
 == About me
-I'm currently working at [https://www.us1.dgene.com/ DGene] as a senior research engineer. I got my Ph.D. in Computer Science at Louisiana State University, under the guidance of Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun]. My research focuses on developing computationally efficient machine learning as well as deep learning models and algorithms, with applications in recommender systems, time-series analysis, computer vision, computer graphics, and natural language processing.
+Extensive (4+ years) theoretical research experience in collective control, path following for unmanned surface systems (USVs), unmanned aerial vehicle (UAVs) and multi-agent systems, with research papers (4 first-autho -red) in professional venues (e.g., TCST, TCNS, TIE) and real-world applications with our platform such as HUSTER-0.3, HUSTER-16, HUSTER-30 USVs).
+
+
 
 == Education 
-- Ph.D. in Computer Science, Louisiana State University, Aug. 2016 - Aug. 2020
-- M.S. in Solid Mechanics, University of Science and Technology of China, Sept. 2013 - Jun. 2016
-- B.S. in Theoretical and Applied Mechanics, University of Science and Technology of China, Sept. 2009 - Jun. 2013
+- Ph.D. in Control Science and Technology, Huazhong University of Science and Technology, Wuhan, P.R China, Sept. 2017 - June. 2021
+- B.S. in Electrical Engineering and Automation, Jiangnan University, Wuxi, P.R China, Sept. 2013 - Jun. 2017
 
-== Research Interests 
-- Statistical Machine Learning, Deep Learning, Point Process, Optimization, Fairness
-- Data Mining, Information Retrieval, Recommender System 
-- Computer Vision, Computer Graphics, Natural Language Processing
+== Professional Experience 
+- Visiting Ph.D. in Faculty of Science and technology, University of Groningen, Groningen, The Netherland, May. 2021 - Apr. 2022
 
-== Visitors
-~~~
-{}{raw}
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=weAawplBogRZm4707J2DPkv1Pn3WYzslKBDineUl-bw'></script>
-~~~
+
+
+
+#== Visitors
+#~~~
+#{}{raw}
+#<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/#map_v2.js?cl=ffffff&w=300&t=n&d=weAawplBogRZm4707J2DPkv1Pn3WYzslKBDineUl-bw'></script>
+#~~~
 
