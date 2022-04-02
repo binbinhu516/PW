@@ -1,0 +1,41 @@
+# jemdoc: menu{MENU}{memory.html}, nofooter
+== Memory
+
+
+== Memory at Groningen
+~~~
+{}{img_left}{photos/prague.jpg}{alt text}{300px}{200px}
+Prague \n
+~~~
+\n
+
+
+~~~
+{}{img_left}{photos/Hague.jpg}{alt text}{300px}{220px}
+Hague \n
+~~~
+
+
+
+
+#== Memory at HUST
+#~~~
+#{}{img_left}{photos/prague.jpg}{alt text}{300px}{200px}
+#Prague \n
+#~~~
+
+
+
+
+== Memory at Zhejiang
+~~~
+{}{img_left}{photos/Linhai_1.jpg}{alt text}{300px}{200px}
+Donghu Lake, Linhai \n
+~~~
+\n
+
+~~~
+{}{img_left}{photos/Linhai_3.jpg}{alt text}{300px}{400px}
+Jiangnan Great Wall \n
+~~~
+
