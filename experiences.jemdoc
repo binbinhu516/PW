@@ -2,20 +2,15 @@
 == Experiences
 
 == Research Project
+- *NTU-Schaeffler Joint Project: Brake-by-wire System Design and Regenerative Braking Control for AMR* \n
+1. Proposed safety-critical control algorithm and conducted experiments on the real AMRs, including path generating and tracking, collision avoidance in the warehouse. \n
+
+
 - *Ordering-Free Robotic Platooning for Multi-Robot Navigation System* \n
 1. Proposed a coordinated guiding vector field to guide robots to form an ordering-free platooning formation while moving along the desired paths. Potential applications of arbitrary-dimension desired paths including self-intersected, non-convex, closed and non-closed one. \n
 
-- *Target Surrounding / Fencing for Multi-USV System* \n
-1. Target Fencing in Rigid and Flexible Patterns: \n
-Proposed a distributed unlabelled controller to attain rigid-formation or flexible-formation fencing in a unified framework. Analysis of a complicated nonlinear networked system with the inter-agent repulsive term.\n
-2. Target Surrounding with Varying Topologies: \n
-Proposed a distributed estimation-and-control hierarchical framework with jointly dwellingly connected topologies. Conducted lake experiments with three 1.6 meters-long HUSTER-16 USV vessels and a differential GPS station.\n
-3. Target Fencing in Regular Polygon Formation: \n
-Proposed a distributed unlabelled controller for second-order networked system to fence a moving target of unknown velocity within the convex hull and guarantee collision avoidance. Analysis of a nonlinear closed-loop system especially subject to the velocity estimation error. \n
-4. Bearing-only Motional Target Surrounding: \n
-Proposed a distributed bearing-only controller for multiple unmanned surface vessels (USVs) to encircle and rotate evenly around a motional target. Conducted real experimental with three HUSTER-0.3 USVs and a target vessel.\n
-5. Multiple-Target Surrounding and Collision Avoidance: \n 
-Proposed an equal-distance surrounding framework to encircle multiple moving targets with guaranteed collision avoidance. Conducted experiments with four HUSTER-0.3 USVs and two target vessels. 
+- *Multi-USV Convoying Control* \n
+1. Proposed methods concerning target convoying in presence of different situations: rigid and flexible patterns, bearing-only measuring, varying topologies and collision avoidance. 
 
 - *Navigation and Landing for UAV-USV System* \n
 1. Proposed a visual navigation and landing control paradigm or an unmanned aerial vehicle (UAV) to land on a moving autonomous surface vehicle (ASV). Conducted landing experiments with our HUSTER-30 ASV and the M-100 UAV. \n
@@ -23,11 +18,9 @@ Proposed an equal-distance surrounding framework to encircle multiple moving tar
 
 
 == Conference Activity
-- The 11th International Conference on Intelligent Robotics and Applications, Aug. 9–11, 2018. \n
-Oral report: Distributed Hunting for Multi USVs Based on Cyclic Estimation, Newcastle, Australia.\n
+- The 11th International Conference on Intelligent Robotics and Applications, Aug. 9–11, 2018, Newcastle, Australia. (Oral report)\n
 
-- The 37th Chinese Control Conference, Jul. 25-27, 2018. \n 
-Oral report: Cooperative Hunting Control for Multiple USVs, Wuhan, China.\n
+- The 37th Chinese Control Conference, Jul. 25-27, 2018, Wuhan, China. (Oral report)\n
 
 
 
